@@ -19,10 +19,6 @@ The workflow includes:
 
 The system is designed to reduce manual note-taking and quickly generate readable meeting summaries.
 
----
-
-# README.md
-
 ## Features
 
 * Converts meeting audio into text
